@@ -1,5 +1,4 @@
 # yolov8_ros2
-Used in the 5th semester [Robotics LLM-Planner-for-Bimanual-object-mnipulation project](https://github.com/andreasHovaldt/LLM-Planner-for-Bimanual-object-manipulation). 
 Package provides functionalities for using the Intel Realsense D435 camera combined with the yoloV8 object segmentation model implemented using ROS2.
 
 ## Required libraries
